@@ -1,6 +1,6 @@
 # Beginning
 My First Repo
 <br>
-Author - Pyanshu Mahajan
+Author - Pyanshu 
 <br>
 Second Day
